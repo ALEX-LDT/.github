@@ -1,0 +1,73 @@
+name: Update or Documentation Proposal
+description: Propose an Update, documentation or an asset description before writing it
+labels: ["documentation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to agree on substantial content before opening a pull request, as the pilot repository's contributing guide asks. Small fixes such as typos or broken links can go straight to a pull request.
+
+        In `ldt4ssc-alex`, Updates are published on the LDT4SSC Knowledge Hub and the project website, so everything here is public.
+
+  - type: dropdown
+    id: content_type
+    attributes:
+      label: Content type
+      description: What do you want to add or change?
+      options:
+        - "Update: general (progress notes, decisions, reflections)"
+        - "Update: milestone (a concrete outcome or achievement)"
+        - "Update: lesson (something learned, good or bad)"
+        - "Update: asset (an output available for reuse, with a link)"
+        - "Update: event (an event hosted, attended or joined, within two weeks)"
+        - Documentation in docs/
+        - Asset description in assets/
+        - Other (describe below)
+    validations:
+      required: true
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: What the content says, in a few sentences, and who it is for.
+    validations:
+      required: true
+
+  - type: input
+    id: task
+    attributes:
+      label: Task
+      description: The workplan task the content relates to, if any.
+      placeholder: e.g., T3.1
+
+  - type: input
+    id: authors
+    attributes:
+      label: Authors
+      description: Everyone who will contribute; all are listed in the Update's authors field.
+      placeholder: e.g., Jane Doe (NLS FGI), John Smith (FVH)
+
+  - type: input
+    id: target_date
+    attributes:
+      label: Target date
+      description: When you plan to open the pull request.
+      placeholder: e.g., 15.12.2026
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Links to drafts, related issues or material to reference.
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      description: Please confirm the following
+      options:
+        - label: The content contains no confidential, sensitive or embargoed information, and no personal data without consent
+          required: true
+        - label: Third-party material will be attributed and its licence allows reuse
+          required: true
