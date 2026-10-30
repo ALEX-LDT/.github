@@ -51,13 +51,9 @@ at least as prominent as any partner logo (Pilot Grant Agreement, Article 14.3).
 <img src="logos/visions.png" alt="Visions" height="40">
 -->
 
-<!--
-Placeholder: uncomment once SECURITY.md exists in ALEX-LDT/.github.
-
 ## Security
 
 To report a vulnerability, follow the [security policy](https://github.com/ALEX-LDT/.github/blob/main/SECURITY.md). Do not open a public issue.
--->
 
 ## Funding
 
