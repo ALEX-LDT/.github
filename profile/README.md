@@ -9,14 +9,9 @@ ALEX brings AI into Local Digital Twins for climate and energy planning in Helsi
 
 Both pilots share an interoperability layer based on Location Europe and OGC APIs, a Model Context Protocol (MCP) tool for AI-ready access to geospatial data, and a Prometheus-X data space connector for trusted data exchange.
 
-<!--
-Placeholder: uncomment once ALEX-LDT/ldt4ssc-alex exists and is registered with
-the LDT4SSC Helpdesk.
-
 ## Start here
 
-[ldt4ssc-alex](https://github.com/ALEX-LDT/ldt4ssc-alex) is the pilot repository and the landing page for all ALEX work: progress Updates, documentation, and links to the component repositories. Its Updates also appear on the [LDT4SSC Knowledge Hub](https://knowledgehub.ldt4ssc.eu/).
--->
+**[ldt4ssc-alex](https://github.com/ALEX-LDT/ldt4ssc-alex)** is the public front door of ALEX: the pilot's record as an LDT4SSC pilot. It holds the pilot's progress Updates, documentation and descriptions of its outputs, and links to the component repositories as they are published. Its Updates also appear on the [LDT4SSC Knowledge Hub](https://knowledgehub.ldt4ssc.eu/).
 
 ## How we work
 
