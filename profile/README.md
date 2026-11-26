@@ -32,19 +32,19 @@ Both pilots share an interoperability layer based on Location Europe and OGC API
 | [Visions](https://visionspol.eu) | France | Data space connector |
 
 <!--
-Partner logos: placeholder. Add each partner's logo only after that partner has
-given written approval (Consortium Agreement: no use of a Party's name or logo
-in publicity without its prior written approval). The EU emblem below must stay
-at least as prominent as any partner logo (Pilot Grant Agreement, Article 14.3).
-
-<img src="logos/helsinki.png" alt="City of Helsinki" height="40">
-<img src="logos/fvh.png" alt="Forum Virium Helsinki" height="40">
-<img src="logos/ipr-praha.png" alt="IPR Praha" height="40">
-<img src="logos/oict.png" alt="Operator ICT" height="40">
-<img src="logos/ics-cas.png" alt="Institute of Computer Science of the Czech Academy of Sciences" height="40">
-<img src="logos/nls.png" alt="National Land Survey of Finland" height="40">
-<img src="logos/visions.png" alt="Visions" height="40">
+Partner logos are shown with each partner's written approval (Consortium
+Agreement, Section 8.4.5). Keep them no larger than the EU emblem under
+Funding (Pilot Grant Agreement, Article 14.3).
 -->
+<p>
+  <a href="https://www.hel.fi/en"><img src="logos/helsinki.png" alt="City of Helsinki" height="40"></a>
+  <a href="https://forumvirium.fi/en/"><img src="logos/fvh.png" alt="Forum Virium Helsinki" height="40"></a>
+  <a href="https://iprpraha.cz/en"><img src="logos/ipr-praha.png" alt="Prague Institute of Planning and Development (IPR Praha)" height="40"></a>
+  <a href="https://operatorict.cz/en"><img src="logos/oict.png" alt="Operator ICT" height="40"></a>
+  <a href="https://www.cs.cas.cz/index.php/en"><img src="logos/ics-cas.png" alt="Institute of Computer Science of the Czech Academy of Sciences" height="40"></a>
+  <a href="https://www.maanmittauslaitos.fi/en/research"><img src="logos/nls.png" alt="National Land Survey of Finland, Finnish Geospatial Research Institute" height="40"></a>
+  <a href="https://visionspol.eu"><img src="logos/visions.png" alt="Visions" height="40"></a>
+</p>
 
 ## Security
 
@@ -52,7 +52,10 @@ To report a vulnerability, follow the [security policy](https://github.com/ALEX-
 
 ## Funding
 
-<img src="eu-emblem.png" alt="Co-funded by the European Union" height="60">
+<p>
+  <img src="eu-emblem.png" alt="Co-funded by the European Union" height="60">
+  <a href="https://ldt4ssc.eu"><img src="logos/ldt4ssc.png" alt="LDT4SSC" height="40"></a>
+</p>
 
 ALEX is a pilot of the LDT4SSC project, funded under the Digital Europe Programme, Grant Agreement No 101226211.
 
